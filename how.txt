@@ -1,0 +1,34 @@
+front-end:
+> npm install
+> npm start
+
+back-end:
+> mvnw.cmd
+or,
+run boot app
+
+test:
+http://localhost:9000/
+
+---------------
+users registered:
+stevexu10@gmail.com/Password1
+
+---------------
+mail received:
+
+stevexu01@gmail.com
+11:41 PM (6 minutes ago)
+to me
+
+Dear stevexu10@gmail.com
+
+Your herbalClinicAngular account has been created, please click on the URL below to activate it:
+
+http://127.0.0.1:8082/account/activate?key=WuorlCNg3Y2dVFbQe18R
+--> should be
+http://127.0.0.1:90000/account/activate?key=WuorlCNg3Y2dVFbQe18R
+
+Regards,
+herbalClinicAngular Team.
+
