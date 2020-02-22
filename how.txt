@@ -32,3 +32,4 @@ http://127.0.0.1:90000/account/activate?key=WuorlCNg3Y2dVFbQe18R
 Regards,
 herbalClinicAngular Team.
 
+Added to test forked
